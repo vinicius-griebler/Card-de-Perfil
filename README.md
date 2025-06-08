@@ -8,7 +8,7 @@
 ![Visual do Layout](src/img/img-readme.png)
 
 
-## Tecnologias Utilziadas:
+## Tecnologias Utilizadas:
 
 <div style="display: inline_block"><br>
     <img align="center" alt="icone-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
